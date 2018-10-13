@@ -3,7 +3,7 @@ from .models import Automovil, Marca
 #importamos la mensajeria de django
 from django.contrib import messages
 
-
+# Nuevo comentario
 # Create your views here.
 
 def home(request):
